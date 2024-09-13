@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\JavaSpringProjects\restful-web-services"/>
+			<item value="C:\JavaSpringProjects\myfirstwebapp"/>
+			<item value="C:\Users\Shubham Kashyap\Downloads\learn-jpa-and-hibernet"/>
+			<item value="D:\Eclipse Projects\learn-spring-boot"/>
+			<item value="D:\Eclipse Projects\learn-spring-framework"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
